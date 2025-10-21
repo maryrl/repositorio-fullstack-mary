@@ -230,7 +230,7 @@ function App() {
           </motion.div>
           
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent animate-gradient">
-            Desenvolvedor Fullstack
+            Desenvolvedora Fullstack
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground mb-8">
@@ -248,10 +248,10 @@ function App() {
           </div>
 
           <div className="flex justify-center space-x-6">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+            <a href="https://github.com/maryrl" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
               <Github className="h-6 w-6" />
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+            <a href="https://www.linkedin.com/in/maria-das-gra%C3%A7as-rodrigues-luciano-239b09148/" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
               <Linkedin className="h-6 w-6" />
             </a>
             <a href="mailto:contato@exemplo.com" className="hover:text-primary transition-colors">
@@ -276,8 +276,8 @@ function App() {
 
             <motion.div variants={itemVariants} className="mb-12 text-center max-w-3xl mx-auto">
               <p className="text-lg text-muted-foreground leading-relaxed mb-4">
-                Sou um desenvolvedor fullstack apaixonado por criar soluções tecnológicas que fazem a diferença. 
-                Com formação em <strong>Bacharelado em Sistemas de Informação</strong>, possuo uma base sólida em 
+                Sou uma desenvolvedora fullstack apaixonada por criar soluções tecnológicas que fazem a diferença. 
+                Com formação em <strong>Bacharelada em Sistemas de Informação</strong>, possuo uma base sólida em 
                 análise de sistemas, engenharia de software e gestão de projetos.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
@@ -353,7 +353,7 @@ function App() {
                 </CardHeader>
                 <CardContent>
                   <h3 className="text-xl font-semibold mb-2">Bacharelado em Sistemas de Informação</h3>
-                  <p className="text-muted-foreground mb-4">Instituição de Ensino Superior | 2020 - 2024</p>
+                  <p className="text-muted-foreground mb-4">IFCE| 2025 - Atualmente</p>
                   <p className="mb-4">
                     Durante a graduação, desenvolvi competências em análise e projeto de sistemas, engenharia de software, 
                     banco de dados, redes de computadores, segurança da informação e gestão de projetos de TI.
