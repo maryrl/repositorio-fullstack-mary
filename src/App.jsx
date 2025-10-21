@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+animport { useState, useEffect } from 'react'
 import { Button } from '@/components/ui/button.jsx'
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card.jsx'
 import { Badge } from '@/components/ui/badge.jsx'
@@ -33,7 +33,7 @@ function App() {
   const projects = [
     {
       id: 1,
-      title: 'E-Commerce Fullstack',
+      title: 'E-Commerce de Cosméticos Fullstack',
       description: 'Plataforma completa de e-commerce com carrinho de compras, autenticação e painel administrativo.',
       technologies: ['React', 'Node.js', 'PostgreSQL', 'Docker'],
       category: 'fullstack',
